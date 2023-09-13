@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a Backend Golang Developer and IT Infrastructure!!
 - 🌱 I live in Indonesia
 - 👯 I’m looking to collaborate with other's on some cool open source projects in GoLang.
-- 🥅 2023 Goals: Pass Test Japanese Language Level N5, Materis the DevOps culture.
+- 🥅 2023 Goals: Pass Test Japanese Language Level N5, Masteris the DevOps culture.
 
 if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
