@@ -1,6 +1,6 @@
 ### Hi there, I'm Razif - aka [fataraz] 👋
 
-[![Linkedin: vicky](https://img.shields.io/badge/-vicky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razif-fatahillah-kahfi-9940a11a5/)](https://www.linkedin.com/in/vicky-dwi-kurniawan-256b7b45/)
+[![Linkedin: razif](https://img.shields.io/badge/-razif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razif-fatahillah-kahfi-9940a11a5/)](https://www.linkedin.com/in/vicky-dwi-kurniawan-256b7b45/)
 [![GitHub fataraz](https://img.shields.io/github/followers/razif?label=follow&style=social)](https://github.com/fataraz)
 
 
