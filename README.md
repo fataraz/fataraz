@@ -17,7 +17,7 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ---
 📈 my github stats:
 
-| <a href="https://github.com/vickydk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fataraz&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Fataraz's github stats" /></a> | <a href="https://github.com/fataraz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fataraz&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/fataraz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fataraz&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fataraz&theme=monokai)
