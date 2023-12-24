@@ -5,7 +5,7 @@
 
 
 ## I'm a Husband, Father, Backend Golang Developer!
-- 🔭 I’m currently working as a Backend Golang Developer and IT Infrastructure!!
+- 🔭 I’m currently working as a Backend Golang Developer, a Fullstack Developer, and an IT Infrastructure!!
 - 🌱 I live in Indonesia
 - 👯 I’m looking to collaborate with other's on some cool open source projects in GoLang.
 - 🥅 2023 Goals: Pass Test Japanese Language Level N5, Mastering the DevOps culture.
