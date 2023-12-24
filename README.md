@@ -4,7 +4,7 @@
 [![GitHub fataraz](https://img.shields.io/github/followers/razif?label=follow&style=social)](https://github.com/fataraz)
 
 
-## I'm a Husband, Father, Backend Golang Developer, IT Infrastructure!
+## I'm a Husband, Father, Backend Golang Developer!
 - 🔭 I’m currently working as a Backend Golang Developer and IT Infrastructure!!
 - 🌱 I live in Indonesia
 - 👯 I’m looking to collaborate with other's on some cool open source projects in GoLang.
